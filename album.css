@@ -1,0 +1,35 @@
+table{
+    width: 100%;
+}
+img {
+    width: 300px;
+}
+body {
+    margin: 0;
+    background-color: grey;
+}
+li {
+    list-style-type: none;
+    width: 300px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid black;
+    margin: auto;
+}
+a {
+    color: lightgreen;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+td {
+    text-align: center;
+}
+ul {
+    padding: 0;
+}
+#nyil {
+    width: 10px;
+}
